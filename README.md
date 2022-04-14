@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shu03
-- 👀 I’m interested in React.js
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me - ssbedage@gmail.com
 
